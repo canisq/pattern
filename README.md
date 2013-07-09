@@ -1,4 +1,4 @@
-pattern
+Pattern
 =======
 
-SASS Framework 
+SASS Framework
